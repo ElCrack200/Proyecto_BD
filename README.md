@@ -11,3 +11,6 @@ Alyson Esther Contreras Rivas
 
 Julio Daniel Sincal Aroche
 
+
+
+Nota: El botón actualizar no funciona, intentamos varias cosas pero nada resulto y ya que la búsqueda era opcional no lo agregamos.
